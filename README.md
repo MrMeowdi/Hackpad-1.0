@@ -61,7 +61,7 @@ Designator | Component | Selected part / description | Qty on PCB | Purchase pac
 | PCB | Printed circuit board | Macropad PCB | 1 | $14.00 / 1 | $14.00
 
 
-ESTIMATED TOTAL - `$43.5`
+ESTIMATED TOTAL - `$54.5`
 
 <img width="1452" height="803" alt="image" src="https://github.com/user-attachments/assets/576c7a14-6cf8-45cd-b8cf-b58da087a63b" />
 
