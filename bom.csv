@@ -5,4 +5,4 @@ ID,Name,Designator,Qty,Price USD,Source,Link
 4,0.91 inch OLED,U2,1,2.88,Amazon,https://www.amazon.in/dp/B084H9HLCS
 5,SK6812 MINI-E LEDs pack of 50,LED1-LED8,8,2.00,User provided price,https://www.ubuy.co.in/productjp/QW0BOLVDC-lonoa-50pcs-sk6812-mini-e-rgb-same-as-ws2812b-sk6812-3228-pixels-led-chip-individually-addressable-full-color-dc5v
 6,220 ohm through-hole resistor pack of 50,R1,1,1.01,Amazon listing is not the PCB 330 ohm part,https://www.amazon.in/dp/B0BDG2F7FL
-7,Custom PCB,PCB,1,14.00,User provided price,N/A
+7,Custom PCB,PCB,1,14.00,User provided price,jlcpcb.com
