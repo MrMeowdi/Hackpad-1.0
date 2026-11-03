@@ -8,7 +8,7 @@ I basically made a hackpad consisting of 8 keys and 1 rotary encoder each having
 
 I have done the code on VsCode from some of my knowledge and some of ChatGPT
 
-USE ANY KEYCAPS AND ENCODER KNOB OF YOUR CHOICE
+USE ANY KEYCAPS AND ENCODER KNOB OF YOUR CHOICE xd!
 
 ## How To Assemble
 
