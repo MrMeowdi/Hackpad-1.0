@@ -1,9 +1,8 @@
-| ID | Name | Designator | Quantity | Price |
-|---:|---|---|---:|---|
-| 1 | MX mechanical switch | MX1–MX8 | 8 | |
-| 2 | EC11 rotary encoder with push switch | SW1 | 1 | |
-| 3 | Seeed XIAO RP2040 | U1 | 1 | |
-| 4 | SSD1306 I2C OLED | U2 | 1 | |
-| 5 | SK6812 MINI-E RGB LED | LED1–LED8 | 8 | $2 per 50-pack |
-| 6 | 330 ohm resistor | R1 | 1 | |
-| 7 | Custom macropad PCB | PCB | 1 | $14 |
+ID,Name,Designator,Quantity,Price USD
+1,MX mechanical switch,MX1-MX8,8,Not provided
+2,EC11 rotary encoder with push switch,SW1,1,Not provided
+3,Seeed XIAO RP2040,U1,1,Not provided
+4,SSD1306 I2C OLED,U2,1,Not provided
+5,SK6812 MINI-E RGB LED,LED1-LED8,8,2.00 per 50-pack
+6,330 ohm resistor,R1,1,Not provided
+7,Custom macropad PCB,PCB,1,14.00
