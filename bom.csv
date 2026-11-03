@@ -1,8 +1,9 @@
-ID,Name,Designator,Quantity,Price USD
-1,MX mechanical switch,MX1-MX8,8,Not provided
-2,EC11 rotary encoder with push switch,SW1,1,Not provided
-3,Seeed XIAO RP2040,U1,1,Not provided
-4,SSD1306 I2C OLED,U2,1,Not provided
-5,SK6812 MINI-E RGB LED,LED1-LED8,8,2.00 per 50-pack
-6,330 ohm resistor,R1,1,Not provided
-7,Custom macropad PCB,PCB,1,14.00
+| ID | Name | Designator | Qty | Price USD |
+|---:|---|---|---:|---:|
+| 1 | [GranVela red switches](https://www.amazon.in/dp/B073WBY7J3) — 20-pack | MX1–MX8 | 8 | $17.89 per pack |
+| 2 | [EC11 encoder](https://www.amazon.in/dp/B0888RVZSN) — 2-pack | SW1 | 1 | $2.57 per pack |
+| 3 | [Seeed XIAO RP2040](https://www.amazon.in/dp/B09NNVNW7M) | U1 | 1 | $15.83 |
+| 4 | [0.91-inch OLED](https://www.amazon.in/dp/B084H9HLCS) | U2 | 1 | $2.88 |
+| 5 | SK6812 MINI-E LEDs — 50-pack | LED1–LED8 | 8 | $2.00 per pack |
+| 6 | [Linked resistor listing](https://www.amazon.in/dp/B0BDG2F7FL) — 50-pack | R1 | 1 | $1.01 per pack |
+| 7 | Custom PCB | PCB | 1 | $14.00 |
