@@ -22,7 +22,7 @@ Now since the assembling part is completed, we need to focus on the firmware par
 
 > Use any microcontroller firmware uploading software like "Thonny" or "ArduinoIDE" and install micropython
 
-> Copy and paste the firmware from the code.py or directly download and upload the file in the XIAO
+> Copy and paste the firmware from the main.py or directly download and upload the file in the XIAO
 
 > Upload the 2nd file also named as boot.py enabling Pc stats tramsfer over USB 
 
