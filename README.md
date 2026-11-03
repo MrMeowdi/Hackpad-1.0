@@ -1,4 +1,7 @@
 # Hackpad-1.0
+
+![Hackpad 1.0 cover](cover.png)
+
 This is by far my first project made completely from Tutorials and Guides on YouTube however I made some of the changes by seeking ideas from 2 old hack club events i.e. highway and statis from where I gathered more ideas and easy techniques to do so.
 
 I basically made a hackpad consisting of 8 keys and 1 rotary encoder each having per key RGB and also an OLED screen to view various stats of PC its connected to like resource used etc
