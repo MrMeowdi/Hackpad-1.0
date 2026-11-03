@@ -8,6 +8,8 @@ I basically made a hackpad consisting of 8 keys and 1 rotary encoder each having
 
 I have done the code on VsCode from some of my knowledge and some of ChatGPT
 
+USE ANY KEYCAPS AND ENCODER KNOB OF YOUR CHOICE
+
 ## How To Assemble
 
 > Solder all components on the PCB board carefully at its place,  wiring diagram is also shown below  in images section, visit if necessary
