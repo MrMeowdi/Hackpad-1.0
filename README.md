@@ -1,6 +1,6 @@
 # Hackpad-1.0
 
-![Hackpad 1.0 cover](cover.png)
+<img width="1667" height="783" alt="image" src="https://github.com/user-attachments/assets/6c5b4ffc-d158-4c81-9e37-a7ae3f2979bb" />
 
 This is by far my first project made completely from Tutorials and Guides on YouTube however I made some of the changes by seeking ideas from 2 old hack club events i.e. highway and statis from where I gathered more ideas and easy techniques to do so.
 
@@ -81,13 +81,18 @@ These modules are required to install the firmware and make it work
 
 <img width="971" height="845" alt="image" src="https://github.com/user-attachments/assets/4ebbb98c-c2ee-4460-8a51-21dd16d4f614" />
 
-<img width="790" height="911" alt="image" src="https://github.com/user-attachments/assets/a02a9385-d12e-44d6-a0cb-daee9e711608" />
+<img width="1107" height="871" alt="image" src="https://github.com/user-attachments/assets/6d3771c0-98f8-4c77-a5a7-706377caf235" />
 
-<img width="1067" height="815" alt="image" src="https://github.com/user-attachments/assets/f67dbb02-52d1-4b56-a139-941a99736bab" />
+<img width="1607" height="778" alt="image" src="https://github.com/user-attachments/assets/7e7e2a8c-456f-4967-8ec5-5a0c07bc2121" />
 
-<img width="1695" height="800" alt="image" src="https://github.com/user-attachments/assets/39e09a4e-8429-479d-be8c-b038cdcd8a87" />
 
-<img width="1067" height="815" alt="image" src="https://github.com/user-attachments/assets/880a5696-2de3-412c-ac77-eb701a5cc14f" />
 
-<img width="1682" height="819" alt="image" src="https://github.com/user-attachments/assets/42531955-674c-4f26-bc1d-38bdae868a0f" />
+<img width="1535" height="732" alt="image" src="https://github.com/user-attachments/assets/2806c6e7-2bcf-4004-8169-7e1d09cf0440" />
+
+<img width="1602" height="742" alt="image" src="https://github.com/user-attachments/assets/a77e34a5-7305-4860-8bdc-8b030ecde321" />
+
+<img width="913" height="805" alt="image" src="https://github.com/user-attachments/assets/43a01b57-84c6-4a13-94cc-e04ad0b1eceb" />
+
+<img width="1662" height="803" alt="image" src="https://github.com/user-attachments/assets/c0fb11ea-06c3-4acc-84d9-0d0bfe02ecfa" />
+
 
