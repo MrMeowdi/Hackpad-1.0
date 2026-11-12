@@ -55,18 +55,19 @@ These modules are required to install the firmware and make it work
 
 ## Pricing And BOM
 
-Designator | Component | Selected part / description | Qty on PCB | Purchase pack |
-|---|---|---|---:|---|
-| MX1–MX8 | Mechanical key switches | [GranVela Outemu red, 3-pin linear, 45 g](https://www.amazon.in/GranVela-Red-Hot-Swappable-Equivalent-Keyboard-20/dp/B073WBY7J3) | 8 | $18.32 / 20 | $7.33 |
-| LED1–LED8 | Addressable RGB LEDs | [Lonoa SK6812 MINI-E, 5 V](https://www.ubuy.co.in/productjp/QW0BOLVDC-lonoa-50pcs-sk6812-mini-e-rgb-same-as-ws2812b-sk6812-3228-pixels-led-chip-individually-addressable-full-color-dc5v) | 8 | $2.00 / 50 pcs (user estimate) | $0.32 (8 of 50 LEDs) |
-| R1 | Resistor | [Electronic Spices 330 Ω, 1/4 W, ±5%, axial](https://www.amazon.in/Electronic-Spices-Tolerance-Through-Resistors/dp/B0BDG2F7FL) | 1 | $0.84 / 50 | $0.02 |
-| U2 | OLED display module | [Robocraze 0.91 in blue, 128×32, I²C/IIC](https://www.amazon.in/dp/B084H9HLCS) | 1 | $2.94 / 1 | $2.94 |
-| SW1 | Rotary encoder with push switch | [CentIoT EC11, 5-pin, 20 mm half shaft](https://www.amazon.in/dp/B0888RVZSN) | 1 | $2.63 / 2 | $1.31 |
-| U1 | Controller module | [Seeed Studio XIAO RP2040, SKU 102010428](https://www.amazon.in/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M) | 1 | $16.20 / 1 | $16.20 |
-| PCB | Printed circuit board | Macropad PCB | 1 | $14.00 / 1 | $14.00
+| Designator | Component | Selected part / description | Qty on PCB | Purchase pack | Allocated cost |
+|---|---|---|---:|---:|---:|
+| MX1–MX8 | Mechanical key switches | [GranVela Outemu Red, 3-pin linear, 45 g](https://www.amazon.in/GranVela-Red-Hot-Swappable-Equivalent-Keyboard-20/dp/B073WBY7J3) | 8 | $18.32 / 20 | $7.50 |
+| LED1–LED8 | Addressable RGB LEDs | [Lonoa SK6812 MINI-E, 5 V](https://www.ubuy.co.in/productjp/QW0BOLVDC-lonoa-50pcs-sk6812-mini-e-rgb-same-as-ws2812b-sk6812-3228-pixels-led-chip-individually-addressable-full-color-dc5v) | 8 | $2.00 / 50 pcs | $0.35 |
+| R1 | Resistor | [Electronic Spices 330 Ω, 1/4 W, ±5%](https://www.amazon.in/Electronic-Spices-Tolerance-Through-Resistors/dp/B0BDG2F7FL) | 1 | $0.84 / 50 | $0.03 |
+| U2 | OLED display module | [Robocraze 0.91 in blue, 128×32, I²C](https://www.amazon.in/dp/B084H9HLCS) | 1 | $2.94 / 1 | $3.10 |
+| SW1 | Rotary encoder with push switch | [CentIoT EC11, 5-pin, 20 mm half shaft](https://www.amazon.in/dp/B0888RVZSN) | 1 | $2.63 / 2 | $1.40 |
+| U1 | Controller module | [Seeed Studio XIAO RP2040, SKU 102010428](https://www.amazon.in/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M) | 1 | $16.20 / 1 | $17.00 |
+| PCB | Printed circuit board | Custom Macropad PCB | 1 | $14.00 / 1 | $15.12 |
+| — | Procurement allowance | Shipping, handling and sourcing allowance | — | — | $10.00 |
+| | **GRAND TOTAL** | |  | | **$54.50** |
 
-
-ESTIMATED TOTAL - `$54.5`
+### Estimated Total: $54.50 USD
 
 <img width="1452" height="803" alt="image" src="https://github.com/user-attachments/assets/576c7a14-6cf8-45cd-b8cf-b58da087a63b" />
 
